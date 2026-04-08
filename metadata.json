@@ -1,0 +1,7 @@
+{
+  "name": "HX INFINITY SOI DA CÔNG NGHỆ CAO v1.1",
+  "description": "Bạn muốn sở hữu app soi da cho riêng mình hãy liên hệ mình: 0988.727.678 - 0786.145.311",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
